@@ -6,3 +6,6 @@ os
 colorama
 shutil
 time
+
+
+!! YOU NEED TO LINK A NEW ROCKSTAR ACC TO UNBAN !!
